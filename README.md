@@ -6,8 +6,8 @@ The is a start at a wrapper around GetSatisfaction's JSON API.  It was initially
 Improvements to be made:
 ------------------------
 
-    1. The classes representing particular objects in the JSON response feel unnecessary and excessive.  They are a design carry over from python-satisfaction.
-    2. At the moment, this library supports the specific operations I needed at the time, it obviously should support all possible queries on the API
-    3. Paging of results currently isn't supported, but is pretty easy to implement, I just didn't need it.  Look for it soon
+1. The classes representing particular objects in the JSON response feel unnecessary and excessive. They are a design carry over from python-satisfaction.
+2. At the moment, this library supports the specific operations I needed at the time, it obviously should support all possible queries on the API
+3. Paging of results currently isn't supported, but is pretty easy to implement, I just didn't need it.  Look for it soon
 
 More to come.
